@@ -1,9 +1,10 @@
-# 
+# Hello, I'm Iaroslav
 
+I'm a student interested in bioinformatics and genetics.
 
+## About Me
 
-
-
+```
 - 👋 Hi, I’m @sibira-bio
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -11,6 +12,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+```
+
+## Skills
 
 <!---
 sibira-bio/sibira-bio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
