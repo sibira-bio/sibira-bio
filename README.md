@@ -2,7 +2,7 @@
 
 I'm a student interested in bioinformatics and genetics.
 
-## About Me
+## 🖥️About Me
 
 ```
 - 👋 Hi, I’m @sibira-bio
@@ -15,7 +15,7 @@ I'm a student interested in bioinformatics and genetics.
 
 ```
 
-## Skills
+## 🛠️Skills
 
 <!---
 sibira-bio/sibira-bio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
